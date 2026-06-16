@@ -1,4 +1,4 @@
-# cybersecurity-home-lab-aric-patel
+
 
 # Cybersecurity Home Lab
 

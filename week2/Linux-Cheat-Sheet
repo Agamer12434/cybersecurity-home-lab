@@ -1,0 +1,35 @@
+Linux Cheat Sheet
+
+-- Navigation
+- pwd - Show current directory
+- ls - List files and folders
+- ls -la - Show detailed file information
+- cd - Change directories
+
+-- File Management
+- mkdir - Create folders
+- touch - Create files
+- cp - Copy files
+- mv - Move or rename files
+- rm - Delete files
+- cat - View file contents
+
+-- Permissions
+- ls -l - View permissions
+- chmod 600 - Owner read/write only
+- chmod 644 - Owner read/write, others read
+- chmod +x - Make a file executable
+
+-- Users
+- whoami - Show current user
+- groups - Show user groups
+- id - Show user and group IDs
+
+-- Software
+- sudo apt update
+- sudo apt install
+
+-- Scripts
+- nano filename.sh
+- chmod +x filename.sh
+- ./filename.sh

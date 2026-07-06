@@ -1,4 +1,45 @@
-Week 2 - Day 2 Notes
+Week 2 Extra Notes
+
+Date: 7/6/26
+
+Today's Goal:
+Learn how Linux file permissions control access to files and scripts.
+
+Commands I Learned:
+
+ls -l
+- Displays detailed file information, including permissions.
+
+chmod
+- Changes file permissions.
+
+chmod +x
+- Makes a file executable.
+
+./filename
+- Runs an executable file in the current directory.
+
+What I Did:
+- Created public.txt and private.txt.
+- Viewed file permissions with ls -l.
+- Changed private.txt to owner-only access using chmod 600.
+- Set public.txt to be readable by everyone using chmod 644.
+- Created a Bash script called hello.sh.
+- Made the script executable with chmod +x.
+- Successfully ran the script from the terminal.
+
+What I Learned:
+- Linux permissions determine who can read, write, or execute a file.
+- Permissions help protect sensitive files from unauthorized access.
+- Executable permissions are required to run scripts.
+- The owner, group, and others can each have different permission levels.
+
+Reflection:
+Today I learned how Linux uses permissions to secure files and programs. Understanding how to manage permissions is an important cybersecurity skill because it helps protect systems from unauthorized access.Week 2 - Day 2 Notes
+
+
+
+
 
 Date: 7/5/26
 

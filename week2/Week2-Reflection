@@ -1,0 +1,21 @@
+# Week 2 Reflection
+
+-- What new Linux commands did I learn?
+
+This week I learned how to manage files, change permissions, view users and groups, install software with APT, and create executable Bash scripts.
+
+-- Why are file permissions important?
+
+File permissions help protect files from unauthorized access by controlling who can read, write, or execute them. This is a key security feature in Linux.
+
+-- Which command do I think I'll use the most?
+
+I think I will use `ls`, `cd`, `pwd`, and `chmod` the most because they are essential for navigating Linux and managing files.
+
+-- What was the hardest part of this week?
+
+Understanding Linux permissions and remembering what each permission number (600, 644, 755) means was the most challenging.
+
+-- How do these skills relate to cybersecurity?
+
+Many cybersecurity tools run on Linux. Understanding the terminal, file permissions, users, and scripting provides a strong foundation for system administration, security analysis, and ethical hacking.

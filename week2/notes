@@ -1,4 +1,26 @@
-Week 2 Extra Notes
+Week 2 - Part 5 Notes
+
+Goal
+Learn how Linux manages users and groups.
+
+Commands Learned
+- whoami - Displays the current user.
+- groups - Shows the groups the current user belongs to.
+- id - Displays the user's ID and group information.
+- cat /etc/passwd - Lists user accounts on the system.
+
+What I Learned
+- Every user has a unique User ID (UID).
+- Groups help organize users and control permissions.
+- Users in the sudo group can perform administrative tasks.
+- Linux stores information about user accounts in the /etc/passwd file.
+
+ Reflection
+Learning about users and groups helped me understand how Linux controls access to files and system resources. This is important in cybersecurity because proper permissions help prevent unauthorized access.
+
+-----------------------------------------------------
+
+Week 2 Part 4 Extra Notes
 
 Date: 7/6/26
 
@@ -35,11 +57,10 @@ What I Learned:
 - The owner, group, and others can each have different permission levels.
 
 Reflection:
-Today I learned how Linux uses permissions to secure files and programs. Understanding how to manage permissions is an important cybersecurity skill because it helps protect systems from unauthorized access.Week 2 - Day 2 Notes
-
-
-
-
+Today I learned how Linux uses permissions to secure files and programs. 
+Understanding how to manage permissions is an important cybersecurity skill because it helps protect systems from unauthorized access.
+------------------------------------------------
+Week 2 - Parts 3 Notes
 
 Date: 7/5/26
 
@@ -91,14 +112,14 @@ Challenges:
 - Learning how to save and exit Nano using Ctrl + O, Enter, and Ctrl + X.
 
 Reflection:
-Today I became more comfortable managing files in Linux. I learned how to create, edit, copy, move, and delete files using terminal commands instead of a graphical interface.
+Today I became more comfortable managing files in Linux. 
+I learned how to create, edit, copy, move, and delete files using terminal commands instead of a graphical interface.
 These are important skills because cybersecurity professionals often work on Linux systems through the command line.
 
 
+----------------------------------------------------------------------------------------------------------------------
 
-
-
-Week 2 - Day 1 Notes
+Week 2 - Part 1-2 Notes
 
 Date: 7/4/26
 

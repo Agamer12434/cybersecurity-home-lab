@@ -1,1 +1,107 @@
+Week 2 - Day 2 Notes
 
+Date: 7/5/26
+
+Today's Goal:
+Learn how to create, edit, copy, move, and delete files using the Linux terminal.
+
+Commands I Learned:
+
+touch
+- Creates a new empty file.
+
+echo
+- Writes text into a file.
+
+cat
+- Displays the contents of a file.
+
+cp
+- Copies a file.
+
+mv
+- Moves or renames a file.
+
+rm
+- Deletes a file.
+
+nano
+- Opens a text editor in the terminal.
+
+Activities Completed:
+- Created new files using the touch command.
+- Added text to a file using echo.
+- Viewed file contents using cat.
+- Copied a file using cp.
+- Moved a file into another folder using mv.
+- Edited a file using nano.
+- Deleted a practice file using rm.
+
+What I Learned:
+- Files can be created and managed entirely from the terminal.
+- The echo command can quickly add text to a file.
+- The cat command is useful for viewing file contents.
+- The cp command creates an exact copy of a file.
+- The mv command can move files between folders or rename them.
+- The rm command permanently deletes files, so it should be used carefully.
+
+Challenges:
+- Remembering the differences between cp and mv.
+- Learning how to save and exit Nano using Ctrl + O, Enter, and Ctrl + X.
+
+Reflection:
+Today I became more comfortable managing files in Linux. I learned how to create, edit, copy, move, and delete files using terminal commands instead of a graphical interface.
+These are important skills because cybersecurity professionals often work on Linux systems through the command line.
+
+
+
+
+
+Week 2 - Day 1 Notes
+
+Date: 7/4/26
+
+Today's Goal:
+Learn how to navigate the Linux file system using the terminal.
+
+Commands I Learned:
+
+pwd
+- Displays the current working directory.
+
+ls
+- Lists the files and folders in the current directory.
+
+ls -la
+- Lists all files, including hidden files, with detailed information.
+
+cd
+- Changes the current directory.
+
+mkdir
+- Creates a new directory (folder).
+
+What I Did:
+- Started my Ubuntu virtual machine.
+- Opened the terminal.
+- Checked my current directory using pwd.
+- Listed files using ls and ls -la.
+- Created a "projects" folder.
+- Created a "cybersecurity" folder inside the projects folder.
+- Created the folders "notes", "tools", and "labs" inside the cybersecurity folder.
+
+What I Learned:
+- Linux uses commands instead of a graphical interface for many tasks.
+- The terminal is a fast way to navigate and manage files.
+- The home directory is where my personal files are stored.
+- The mkdir command creates new folders.
+- The pwd command helps me know where I am in the file system.
+
+Challenges:
+- I had to get used to typing commands correctly.
+- I learned that Linux commands are case-sensitive.
+
+Reflection:
+Today I became more comfortable using the Linux terminal. 
+At first it felt different from Windows, but after practicing the commands,
+I was able to create folders and move through directories more confidently.
